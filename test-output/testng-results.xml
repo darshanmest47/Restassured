@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12109" started-at="2020-11-22T12:59:43 IST" finished-at="2020-11-22T12:59:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12109" started-at="2020-11-22T12:59:43 IST" finished-at="2020-11-22T12:59:55 IST">
+      <class name="org.com.test.JSonplaceholdertest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.com.test.JSonplaceholdertest@15d0c81b]" name="setup" is-config="true" duration-ms="525" started-at="2020-11-22T12:59:43 IST" finished-at="2020-11-22T12:59:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getPosts()[pri:0, instance:org.com.test.JSonplaceholdertest@15d0c81b]" name="getPosts" duration-ms="5299" started-at="2020-11-22T12:59:44 IST" finished-at="2020-11-22T12:59:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPosts -->
+        <test-method status="PASS" signature="postData()[pri:1, instance:org.com.test.JSonplaceholdertest@15d0c81b]" name="postData" duration-ms="2404" started-at="2020-11-22T12:59:49 IST" finished-at="2020-11-22T12:59:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method status="PASS" signature="patchData()[pri:2, instance:org.com.test.JSonplaceholdertest@15d0c81b]" name="patchData" duration-ms="1990" started-at="2020-11-22T12:59:51 IST" finished-at="2020-11-22T12:59:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchData -->
+        <test-method status="PASS" signature="deleteData()[pri:3, instance:org.com.test.JSonplaceholdertest@15d0c81b]" name="deleteData" duration-ms="1823" started-at="2020-11-22T12:59:53 IST" finished-at="2020-11-22T12:59:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteData -->
+      </class> <!-- org.com.test.JSonplaceholdertest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
